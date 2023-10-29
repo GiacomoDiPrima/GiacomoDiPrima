@@ -2,7 +2,7 @@
 <h3 align="center">MSc Physics of Data student at the University of Padova</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 
-- 🔭 I’m currently working on **Machine Learning models**
+- 🔭 I’m currently working on **Machine Learning Models**
 
 - 🌱 I’m currently learning **Time Series Analysis, VHDL and Computer Vision**
 
