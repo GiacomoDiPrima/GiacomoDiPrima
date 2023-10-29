@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giacomo Di Prima</h1>
 <h3 align="center">MSc Physics of Data student at the University of Padova</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 
 - 🔭 I’m currently working on **Machine Learning models**
 
