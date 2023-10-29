@@ -1,6 +1,6 @@
+[![MasterHead](https://networks.umn.edu/sites/networks.umn.edu/files/files/1_m2gdbt_nc-ie7r4am3shbq.jpeg)]()
 <h1 align="center">Hi 👋, I'm Giacomo Di Prima</h1>
 <h3 align="center">MSc Physics of Data student at the University of Padova</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 
 - 🔭 I’m currently working on **Machine Learning Models**
 
